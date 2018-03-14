@@ -1,4 +1,4 @@
-Hello Spring Boot
+Hello Spring Boot XD
 =================
 
 Experience the full round-trip development and deployment lifecycle without a CLI but with a fully self bootstrapping local development environment.  This app uses Java, Spring Boot, Gradle, and Atom making it super easy to get started building web apps and microservices on Heroku.
