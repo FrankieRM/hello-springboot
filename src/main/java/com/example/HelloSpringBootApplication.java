@@ -13,7 +13,7 @@ public class HelloSpringBootApplication {
     @RequestMapping("/")
     @ResponseBody
     String sayHello() {
-        return "hello, world";
+        return "hello, everybody BD";
     }
 
     public static void main(String[] args) {
